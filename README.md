@@ -1,38 +1,36 @@
 
-🌦️ Weather Web Application
+# 🌦️ Weather Web Application
 
-A responsive Weather Web Application that provides real-time weather information for any city using a public weather API. The application fetches live data and displays key weather details in a clean and user-friendly interface.
+A responsive **Weather Web Application** that provides real-time weather information for any city using a public weather API. This project demonstrates API integration, dynamic UI updates, and clean frontend design.
 
-🚀 Features
+---
 
-Search weather by city name
+## 🚀 Features
+- Search weather by **city name**
+- Displays **current temperature, humidity, wind speed, and weather conditions**
+- Real-time weather data using API integration
+- Responsive design for desktop and mobile devices
+- User-friendly and clean interface
+- Error handling for invalid or empty city inputs
 
-Displays current temperature, humidity, wind speed, and weather conditions
+---
 
-Real-time API integration
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Weather API** (OpenWeatherMap or similar)
 
-Responsive design for desktop and mobile devices
+---
 
-Clean and simple UI for better user experience
+## 🔧 How It Works
+1. User enters a city name in the search input.
+2. The application sends a request to the weather API.
+3. The API returns real-time weather data.
+4. Weather details are dynamically displayed on the UI.
 
-Error handling for invalid city names
+---
 
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Weather API (OpenWeatherMap or similar)
-
-🔧 How It Works
-
-User enters a city name.
-
-Application sends a request to the weather API.
-
-API returns real-time weather data.
-
-Data is processed and displayed dynamically on the UI.
+## 👨‍💻 Author
+**Saurabh Wankhade**  
+Full Stack Java Developer | Spring Boot 
