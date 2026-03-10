@@ -30,6 +30,17 @@ A responsive **Weather Web Application** that provides real-time weather informa
 4. Weather details are dynamically displayed on the UI.
 
 ---
+## 🚀 Video links
+1. Clear :  https://youtu.be/nBAJSfixobs
+2. Rain : https://youtu.be/EraFrtXH3Uo
+3. Night : https://youtu.be/h-RlYKcUeOI
+4. Fog : https://youtu.be/fTBNlxkrSNk
+5. Cloudy :https://youtu.be/vmc7m-aJ0KU
+6. Snow : https://youtu.be/qYlU7iG_FiA
+7. Thunder : https://youtu.be/6cDKYdPUMxg
+8. Sun : https://youtu.be/xOef_3YOfSs
+9. Default : https://youtu.be/B6o5jQAozMc
+
 
 ## 👨‍💻 Author
 **Saurabh Wankhade**  
